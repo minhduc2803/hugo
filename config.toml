@@ -1,0 +1,57 @@
+BaseUrl= "https://minhduc2803.github.io/"
+LanguageCode= "en-vi"
+Title= "My Home"
+paginate = 5
+DisqusShortname = "Minh Duc"
+Copyright = "@ MinhDuc VNG Fresher 2020"
+canonifyurls = true
+
+[params]
+  description = "VNG Fresher"
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/background.jpg"
+  author = "Minh Duc"
+  authorlocation = "Ho Chi Minh, Viet Nam"
+  authorbio= "my bio"
+  logo = "images/logo.png"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+
+  githubName = "minhduc2803"
+  # facebookName = ""
+  # codepenName = ""
+  # linkedinName = ""
+  # stackoverflowId = ""
+  # keybaseName = ""
+  # flickrName = ""
+  # instagramName = ""
+  # email = ""
+  # pinterestName = ""
+  # googlePlusName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+[[menu.main]]
+  name = "My Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About me"
+  weight = -110
+  identifier = "about"
+  url = "/about"
+
+[[menu.main]]
+  name = "Blog"
+  identifier = "blog" # this page will refer to a markdown file named "blog" in the content folder
+  pre = "<br />"
+  url = "/post"
+  weight = 40
+
+theme = "casper"
