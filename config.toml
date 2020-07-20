@@ -1,10 +1,11 @@
-BaseUrl= "https://minhduc2803.github.io/"
-LanguageCode= "en-vi"
-Title= "My Home"
+baseurl = "https://minhduc2803.github.io/"
+languageCode = "en-vi"
+title = "My Home"
 paginate = 5
-DisqusShortname = "Minh Duc"
-Copyright = "@ MinhDuc VNG Fresher 2020"
+isqusshortname = "Minh Duc"
+copyright = "@ MinhDuc VNG Fresher 2020"
 canonifyurls = true
+theme = "casper"
 
 [params]
   description = "VNG Fresher"
@@ -29,10 +30,6 @@ canonifyurls = true
   # googlePlusName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
-  
-  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
-  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
-  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
   hjsStyle = "default"
 
 [[menu.main]]
@@ -47,11 +44,9 @@ canonifyurls = true
   identifier = "about"
   url = "/about"
 
-[[menu.main]]
-  name = "Blog"
-  identifier = "blog" # this page will refer to a markdown file named "blog" in the content folder
-  pre = "<br />"
-  url = "/post"
-  weight = 40
-
-theme = "casper"
+[permalinks]
+  post = "/:slug/"
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
