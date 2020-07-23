@@ -1,50 +1,45 @@
 baseurl = "https://minhduc2803.github.io/"
 languageCode = "en-vi"
-title = "My Home"
+title = "Minh Duc"
 paginate = 5
 isqusshortname = "Minh Duc"
-copyright = "@ MinhDuc VNG Fresher 2020"
-canonifyurls = true
+copyright = "@ VNG Fresher 2020"
+pluralizelisttitles = false
 theme = "casper"
 
+[[menu.main]]
+  name = "Blog"
+  weight = -120
+  identifier = "blog"
+  url = "/"
+
 [params]
-  description = "VNG Fresher"
-  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  mainSections = ["post"]
+  description = "Sometimes when I close my eyes, I can't see."
   cover = "images/background.jpg"
   author = "Minh Duc"
   authorlocation = "Ho Chi Minh, Viet Nam"
-  authorbio= "my bio"
+  authorbio= "A Software Development Fresher"
   logo = "images/logo.png"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
 
   githubName = "minhduc2803"
-  # facebookName = ""
+  facebookName = "minduc97"
   # codepenName = ""
   # linkedinName = ""
   # stackoverflowId = ""
   # keybaseName = ""
   # flickrName = ""
   # instagramName = ""
-  # email = ""
+  email = "ducnm8@vng.com.vn"
   # pinterestName = ""
   # googlePlusName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   hjsStyle = "default"
+  
 
-[[menu.main]]
-  name = "My Blog"
-  weight = -120
-  identifier = "blog"
-  url = "/"
-
-[[menu.main]]
-  name = "About me"
-  weight = -110
-  identifier = "about"
-  url = "/about"
-
-[permalinks]
+[Permalinks]
   post = "/:slug/"
 [sitemap]
 ChangeFreq = ""
