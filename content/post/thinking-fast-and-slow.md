@@ -1,11 +1,11 @@
----
+﻿---
 comments: true
 image: post/image/raw.png
 title: "Bạn đã suy nghĩ kỹ chưa ?"
 slug: "thinink-fast-and-slow"
 date: 2020-07-22T22:31:45+07:00
 ---
- 
+
     Chuyện coca  
     Hãy tưởng tượng bạn đang đi xem phim với bạn bè tại một rạp chiếu phim. Vé đã mua xong và nhân viên hỏi bạn có muốn mua thêm bắp nước gì không. Ở đây có coca với 2 size khác nhau:  
         - Ly nhỏ: 25k
@@ -18,7 +18,7 @@ date: 2020-07-22T22:31:45+07:00
 Bạn có thể phản biện rằng: chọn ly nhỏ còn bất hợp lý hơn nữa.  
 Đúng vậy, cách chúng ta nhìn nhận rằng chọn ly lớn vì rõ ràng nó hợp lý hơn chọn ly nhỏ, nhưng đồng thời chúng ta cũng thấy thoải mái hơn khi phải mua một ly coca đáng lý có giá chưa tới 20k với giá 30k. Các nhà bán lẻ lợi dụng sự 'hợp lý' và 'thoải mái' này để tạo ra những chiến thuật marketing tuyệt vời.  
 
-Khi đọc về các chiến thuật marketing tuyệt vời ở trên, ở phe người mua, mình cảm thấy như đang bị xỏ mũi. Những rõ ràng chúng ta mới là người ra quyết định, không ai ép uổng gì ai. Tại chúng ta lại dễ bị xỏ mũi như vậy. Mình đã thắc mắc rất lâu và câu trả lời cũng dần hé lộ khi mình đọc được cuốn  [Thinking fast and slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) của [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) - một Nobelist, Cuốn sách tuyệt vời giúp mình nhận ra bộ não của chúng ta thực sự 'bộp chộp' và 'tài lanh', không những trong những chuyện coca ở trên mà còn đối với cuộc sống hằng ngày, với những quyết định lớn trong đời.  
+Khi đọc về các chiến thuật marketing tuyệt vời ở trên, ở phe người mua, mình cảm thấy như đang bị xỏ mũi. Nhưng rõ ràng chúng ta mới là người ra quyết định, hoàn toàn tự nguyện. Tại chúng ta lại dễ bị xỏ mũi như vậy. Mình đã thắc mắc rất lâu và câu trả lời cũng dần hé lộ khi mình đọc được cuốn  [Thinking fast and slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) của [Daniel Kahneman](https://en.wikipedia.org/wiki/Daniel_Kahneman) - một Nobelist, Cuốn sách tuyệt vời giúp mình nhận ra bộ não của chúng ta thực sự 'bộp chộp' như thế nào, không những trong câu chuyện về marketing ở trên mà còn đối với cuộc sống hằng ngày, với những quyết định lớn trong đời.  
 
 Bài viết này trình bày một vài điều mình tâm đắc nhất rút ra từ cuốn sách. Nội dung bài viết hoàn toàn dưới lăng kính của 'chủ thớt' là mình nhưng mình cũng giữ nguyên cách dùng từ, các định nghĩa và khái niệm trong bản dịch tiếng Việt [Tư duy nhanh và chậm](https://tiki.vn/tu-duy-nhanh-va-cham-tai-ban-2019-p912264.html) của tiki.
 
@@ -38,9 +38,9 @@ Hãy thử giải bài toán sau đây:
 
     Một cây gậy và một quả bóng có giá $ 1.10 . Cây gậy đắt hơn quả bóng $ 1.00 . Vậy quả bóng có giá bao nhiêu ?
 Chà, có thể mới đầu con số $ 0.1 sẽ xuất hiện trong đầu bạn, nhưng bạn đã vội kiểm chứng lại và thấy rằng bài toán này không dễ như bạn tưởng nên bạn đã dùng tới hệ thống 2 để tìm ra đáp án. Hệ thống 1 rất nhanh chóng tìm ra đáp án là $ 0.1 và nó đã sai.  
-Hệ thống 1 rất 'lanh chanh', luôn đưa ra những câu trả lời, cảm xúc hoặc quyết định khi còn chưa có đủ thông tin
+Hệ thống 1 rất 'bộp chộp', luôn đưa ra những câu trả lời, cảm xúc hoặc quyết định khi còn chưa có đủ thông tin
 
-    Mình biết nhiều người cực ghét chế độ Việt Nam Cộng hòa cũ, nhưng khi được hỏi 'bạn biết những gì về Việt Nam Cộng hòa' thì câu trả lời hầu như chỉ là 'Việt Nam Cộng hòa rất ác độc, giết người bừa bãi' và không có thông tin gì thêm. Còn một lượng đông đảo hơn rất nhiều người ghét người miền Bắc. Họ nghe giọng Bắc thôi cũng thấy ghét rồi. Khi được hỏi tại sao lại ghét thì câu trả lời nghe rất chung chung. 'Mấy thằng Bắc nó mắc dại lắm, nó tham lắm, nó chuyên ăn thịt chó'. Có người còn lấy ví dụ về  một số người Bắc xấy tính.
+    Mình biết nhiều người cực ghét chế độ Việt Nam Cộng hòa cũ, nhưng khi được hỏi 'bạn biết những gì về Việt Nam Cộng hòa' thì câu trả lời hầu như chỉ là 'Việt Nam Cộng hòa rất ác độc, giết người bừa bãi' và không có thông tin gì thêm. Còn một lượng đông đảo hơn rất nhiều người ghét người miền Bắc. Họ nghe giọng Bắc thôi cũng thấy ghét rồi. Khi được hỏi tại sao lại ghét thì câu trả lời nghe rất chung chung. 'Mấy thằng Bắc nó mắc dại lắm, nó tham lắm, nó chuyên ăn thịt chó'. Có người còn lấy ví dụ về  một số người Bắc xấu tính.
 
 Ở câu chuyện trên bạn còn có thể nhận ra người ta chỉ cố nêu lý do để tự hợp lý hóa cho quyết định 'ghét' của bản thân. Khi họ gặp một vài người Bắc xấu tính thì họ lập tức thấy việc ghét của mình là chính đáng. Đây là khi hệ thống 1 tự hợp lý hóa để đánh lừa hệ thống 2. Bạn có thể thấy điều này trong nhiều quyết định của bản thân. Khi bạn thích chơi game nhưng đang có bài phải học, ý muốn chơi game khiến bạn nghĩ ra nhiều lý do: 'chơi game để giải trí đầu óc cũng tốt', 'mình chỉ chơi một lát thôi là học bài tiếp'.  
 
@@ -97,4 +97,4 @@ Hệ thống 2 lười biếng của chúng ta có thể luyện tập được,
 
 Trong "Thinking fast and slow" còn đề cập tới nhiều khía cạnh khác của tư duy, rất thú vị, đáng để học tập. Daniel với những nghiên cứu của mình đã có những đóng góp to lớn cho tâm lý học và kinh tế học nói riêng và cho quần chúng như mình nói chung. Mong bạn đọc ủng ông bằng cách mua sách tại các cửa hàng có bản quyền.  
 
-Lời cuối mình xin chia sẻ mẹo nhỏ của mình để tự nhắc nhở hãy làm chủ bản thân, hãy sử dụng hệ thống 2. Mình dùng một cái note, dán ở trong phòng, trên có dòng chữ "bạn đã suy nghĩ kỹ chưa ?".
+And now, thanks for reading ^^

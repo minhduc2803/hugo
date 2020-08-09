@@ -1,5 +1,5 @@
 baseurl = "https://minhduc2803.github.io/"
-languageCode = "en-vi"
+languageCode = "vi"
 title = "Minh Duc"
 paginate = 5
 isqusshortname = "Minh Duc"
@@ -38,6 +38,9 @@ theme = "casper"
   hideHUGOSupport = false
   hjsStyle = "default"
   
+  body_classes = "Roboto"
+  googlefonts = ["Roboto"]
+  fontbody = 'Roboto'
 
 [Permalinks]
   post = "/:slug/"
